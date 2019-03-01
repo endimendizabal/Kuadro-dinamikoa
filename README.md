@@ -21,4 +21,4 @@ Pultsagailu eta sensore bakoitzekin kuadroak mugimendu bat egiten du.
 
 ## WIKI ESTEKA
 
-https://github.com/endimendizabal/Kuadro-dinamikoa.wiki.git
+https://github.com/endimendizabal/Kuadro-dinamikoa/wiki
