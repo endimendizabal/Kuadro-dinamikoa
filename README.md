@@ -16,8 +16,10 @@
 
 ## SARRERA
 Errenteriako Don Bosco ikastetxeko elektronika departamentuko ELEK taldea gara.
+
 Gu, taldeko partaide garen Eneko, Endika eta Rubén gara. 
-Proiektu honetan kuadro dinamiko bat egin dugu. Horretarako, 16 servo, 4 pultsagailu, 4 led eta 2 sensorekin lan egin dugu.
+
+Proiektu honetan, kuadro dinamiko bat egin dugu. Horretarako, 16 servo, 4 pultsagailu, 4 led eta 2 sensorekin lan egin dugu.
 Pultsagailu eta sensore bakoitzarekin, kuadroak mugimendu jakin bat egiten du.
 
 ## WIKI ESTEKA
