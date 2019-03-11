@@ -1,6 +1,6 @@
 # ARDUINO PROGRAMA
 
-
+``` cpp
 
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
@@ -734,3 +734,4 @@ void sensorea2(){                             //sensorea 2 funtzioa. Alde bateti
   servos.setPWM(15, 0, 150);
   delay(1000);
   sen2=0;
+```
